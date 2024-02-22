@@ -5,9 +5,9 @@ Setup Razorpay in your React App.
 ### How to setup:
 
 - Clone this repository.
-  `https://github.com/shounakpaul/razorpay-setup.git`
+  `git clone https://github.com/shounakpaul/razorpay-mern-example.git`
 
-- Enter the directory (`cd razorpay-setup`) and run `npm install` or `bun install`
+- Enter the directory (`cd razorpay-mern-example`) and run `npm install` or `bun install`
 
 - Run
   `cd server && npm install && cd ..`
